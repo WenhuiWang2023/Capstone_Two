@@ -9,3 +9,5 @@ In walmart-review-sentiment-analysis.ipynb, review data are processed to transfo
 In walmart-review-twitter-roberta-classification.ipynb, I built RoBERTa model to classify postive rating and negative rating using reviews as input. Pretrained RoBERTa model are futher tunned with walmart review and rating data. After that an independent walmart data is used to furhter validate the model.
 
 capstone_two_report_walmart_review_NLP_WenhuiWang.pdf is the full report file describing Data collection, data wrangling, data exploration, sentiment analysis, RoBERTa modeling, final takeaway and future plan.
+
+capstone_two_presentation_walmart_review_NLP_WenhuiWang.pdf is the presentation power point for the capstone two project.
