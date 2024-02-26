@@ -7,3 +7,5 @@ In walmart_data_exploration.ipynb, walmart reveiw data are cleaned to remove unr
 In walmart-review-sentiment-analysis.ipynb, review data are processed to transforming to lower case, removing punctuations, number, stop words and rare words, lemmatization, etc. After that the words count distribution and tf_idf encoded logistic regression analysis are implemented.
 
 In walmart-review-twitter-roberta-classification.ipynb, I built RoBERTa model to classify postive rating and negative rating using reviews as input. Pretrained RoBERTa model are futher tunned with walmart review and rating data. After that an independent walmart data is used to furhter validate the model.
+
+capstone_two_report_walmart_review_NLP_WenhuiWang.pdf is the full report file describing Data collection, data wrangling, data exploration, sentiment analysis, RoBERTa modeling, final takeaway and future plan.
